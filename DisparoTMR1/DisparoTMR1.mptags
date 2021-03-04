@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Bucle	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	61;"	l	line:61
+CENTENA	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	31;"	l	line:31
+COMPAR	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	132;"	l	line:132
+COMPARA	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	33;"	l	line:33
+Contador	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	23;"	l	line:23
+Counter1	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	12;"	l	line:12
+Counter2	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	13;"	l	line:13
+DEC7	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	27;"	l	line:27
+DECENA	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	30;"	l	line:30
+DISP	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	87;"	l	line:87
+Estatus_Temp	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	25;"	l	line:25
+INC7	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	163;"	l	line:163
+INCR	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	159;"	l	line:159
+INT_FIN	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	93;"	l	line:93
+INT_RB0	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	50;"	l	line:50
+INT_TR1	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	83;"	l	line:83
+Inicio	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	99;"	l	line:99
+LCD_Control	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	6;"	q	line:6
+LCD_Data	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	9;"	q	line:9
+LCD_E	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	8;"	q	line:8
+LCD_RS	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	7;"	q	line:7
+LCDdato	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	14;"	l	line:14
+MIL	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	32;"	l	line:32
+Multiplicador	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	24;"	l	line:24
+NO_7	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	167;"	l	line:167
+REG_S	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	17;"	l	line:17
+REG_W	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	16;"	l	line:16
+Resultado_H	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	21;"	l	line:21
+Resultado_L	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	22;"	l	line:22
+START	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	122;"	l	line:122
+STOP	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	129;"	l	line:129
+TABLA	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	156;"	l	line:156
+UNIDAD	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	29;"	l	line:29
+tiempo	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	19;"	l	line:19
+z	E:\Dispara1\DisparoTMR1\DisparoTMR1.asm	121;"	l	line:121

@@ -1,0 +1,49 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Bucle	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	81;"	l	line:81
+CENTENA	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	31;"	l	line:31
+COMPAR	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	196;"	l	line:196
+COMPARA	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	33;"	l	line:33
+Contador	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	23;"	l	line:23
+Counter1	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	12;"	l	line:12
+Counter2	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	13;"	l	line:13
+DEC7	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	27;"	l	line:27
+DECENA	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	30;"	l	line:30
+DISP0	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	119;"	l	line:119
+DISP1	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	130;"	l	line:130
+DISP2	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	143;"	l	line:143
+Estatus_Temp	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	25;"	l	line:25
+INC7	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	225;"	l	line:225
+INCR	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	221;"	l	line:221
+INT_FIN	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	149;"	l	line:149
+INT_RB0	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	54;"	l	line:54
+INT_TR0	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	115;"	l	line:115
+INT_TR1	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	126;"	l	line:126
+INT_TR2	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	137;"	l	line:137
+Inicio	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	155;"	l	line:155
+LCD_Control	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	6;"	q	line:6
+LCD_Data	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	9;"	q	line:9
+LCD_E	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	8;"	q	line:8
+LCD_RS	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	7;"	q	line:7
+LCDdato	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	14;"	l	line:14
+MIL	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	32;"	l	line:32
+Multiplicador	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	24;"	l	line:24
+NO_7	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	229;"	l	line:229
+RB0_TR0	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	64;"	l	line:64
+RB0_TR1	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	70;"	l	line:70
+RB0_TR2	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	103;"	l	line:103
+REG_S	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	17;"	l	line:17
+REG_W	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	16;"	l	line:16
+Resultado_H	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	21;"	l	line:21
+Resultado_L	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	22;"	l	line:22
+START	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	186;"	l	line:186
+STOP	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	193;"	l	line:193
+TABLA	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	218;"	l	line:218
+UNIDAD	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	29;"	l	line:29
+tiempo	E:\DisparoTrifAnalo\DisparoTrifAnalo.asm	19;"	l	line:19

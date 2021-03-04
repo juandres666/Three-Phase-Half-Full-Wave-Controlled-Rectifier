@@ -1,0 +1,128 @@
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 10 : Labels must be defined in a code or data section when making an object file
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 11 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 11 : Symbol not previously defined (LCD_RS)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 11 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 12 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 13 : Symbol not previously defined (LCD_Data)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 13 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 16 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 16 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 17 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 17 : Symbol not previously defined (LCD_E)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 17 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 19 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 20 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 20 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 21 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 22 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 22 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 23 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 24 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 24 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 25 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 27 : Labels must be defined in a code or data section when making an object file
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 28 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 28 : Symbol not previously defined (LCD_RS)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 28 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 30 : Symbol not previously defined (LCDdato)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 30 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 31 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 32 : Symbol not previously defined (LCD_Data)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 32 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 34 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 34 : Symbol not previously defined (LCD_E)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 34 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 35 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 35 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 36 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 36 : Symbol not previously defined (LCD_E)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 36 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 38 : Symbol not previously defined (LCDdato)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 38 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 39 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 40 : Symbol not previously defined (LCD_Data)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 40 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 41 : Labels must be defined in a code or data section when making an object file
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 42 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 42 : Symbol not previously defined (LCD_E)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 42 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 43 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 43 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 44 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 44 : Symbol not previously defined (LCD_E)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 44 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 45 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 47 : Labels must be defined in a code or data section when making an object file
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 48 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 48 : Symbol not previously defined (LCD_RS)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 48 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 51 : Symbol not previously defined (LCDdato)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 51 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 52 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 53 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 54 : Symbol not previously defined (LCD_Data)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 54 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 57 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 57 : Symbol not previously defined (LCD_E)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 57 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 58 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 58 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 59 : Symbol not previously defined (LCD_Control)
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 59 : Symbol not previously defined (LCD_E)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 59 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 61 : Symbol not previously defined (LCDdato)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 61 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 62 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 63 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 64 : Symbol not previously defined (LCD_Data)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 64 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 67 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 67 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 69 : Labels must be defined in a code or data section when making an object file
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 70 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 71 : Symbol not previously defined (Counter1)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 71 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 72 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 73 : Symbol not previously defined (Counter2)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 73 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 74 : Labels must be defined in a code or data section when making an object file
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 75 : Symbol not previously defined (Counter1)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 75 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 76 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 76 : Executable code and data must be defined in an appropriate section
+Error[113]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 77 : Symbol not previously defined (Counter2)
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 77 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 78 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 78 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 79 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 81 : Labels must be defined in a code or data section when making an object file
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 82 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 83 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 83 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 84 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 86 : Labels must be defined in a code or data section when making an object file
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 87 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 88 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 88 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 89 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 91 : Labels must be defined in a code or data section when making an object file
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 92 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 93 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 93 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 94 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 96 : Labels must be defined in a code or data section when making an object file
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 97 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 98 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 98 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 99 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 101 : Labels must be defined in a code or data section when making an object file
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 102 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 103 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 103 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 104 : Executable code and data must be defined in an appropriate section
+Error[150]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 106 : Labels must be defined in a code or data section when making an object file
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 107 : Executable code and data must be defined in an appropriate section
+Error[151]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 108 : Operand contains unresolvable labels or is too complex
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 108 : Executable code and data must be defined in an appropriate section
+Error[152]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 109 : Executable code and data must be defined in an appropriate section
+Error[129]   E:\DISPARA1\DISPAROTMR1\LCDSOFT4BITS.ASM 111 : Expected (END)
